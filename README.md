@@ -25,5 +25,5 @@ I am a Computer Science graduate passionate about cybersecurity, automation, IT 
 - Secure internship and remote opportunities
 
 ## Connect With Me
-- LinkedIn: your-linkedin-url
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/michael-babatunde-tech
+- Email: michaelbabatunde00@gmail.com 
