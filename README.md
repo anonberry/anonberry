@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Michael Babatunde 👋
 
-<!--
-**anonberry/anonberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Computer Science graduate passionate about cybersecurity, automation, IT support, and web technologies. I am continuously improving my technical skills through hands-on learning and practical projects.
 
-Here are some ideas to get you started:
+## Current Focus
+- Cybersecurity fundamentals
+- Python scripting & automation
+- Web technologies
+- IT support & digital operations
+- Technical problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+- Python
+- Git & GitHub
+- HTML/CSS
+- VS Code
+- Microsoft Office
+- Internet & Digital Tools
+
+## Goals for 2026
+- Build more real-world projects
+- Grow in cybersecurity and automation
+- Contribute to open-source projects
+- Secure internship and remote opportunities
+
+## Connect With Me
+- LinkedIn: your-linkedin-url
+- Email: your-email
